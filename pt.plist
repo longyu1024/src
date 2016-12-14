@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>https://nj01ct01.baidupcs.com/file/e0e820f28e666c2517ac2b7493582dfa?bkt=p3-000094568442999842143f511be993f07c35&amp;fid=3188932980-250528-1045777898981713&amp;time=1481696585&amp;sign=FDTAXGERLBH-DCb740ccc5511e5e8fedcff06b081203-7DC3adQ5z9PeM66a6nSNFHgXQbg%3D&amp;to=njhb&amp;fm=Yan,B,T,t&amp;sta_dx=42325173&amp;sta_cs=&amp;sta_ft=ipa&amp;sta_ct=0&amp;sta_mt=0&amp;fm2=Yangquan,B,T,t&amp;newver=1&amp;newfm=1&amp;secfm=1&amp;flow_ver=3&amp;pkey=000094568442999842143f511be993f07c35&amp;sl=72482894&amp;expires=8h&amp;rt=sh&amp;r=128510008&amp;mlogid=8085003525656494749&amp;vuk=3188932980&amp;vbdid=545854869&amp;fin=WeChat-resigned.ipa&amp;fn=WeChat-resigned.ipa&amp;slt=pm&amp;uta=0&amp;rtype=1&amp;iv=0&amp;isw=0&amp;dp-logid=8085003525656494749&amp;dp-callid=0.1.1&amp;hps=1&amp;csl=141&amp;csign=s1hBzgQMgvlRnfrHbBChRrWNvYs%3D</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>needs-shine</key>
+					<false/>
+					<key>url</key>
+					<string>https://yqall02.baidupcs.com/file/8a2f12679656e1d2821bbc0df9a2e4ba?bkt=p3-14008a2f12679656e1d2821bbc0df9a2e4ba946ecbb50000000008d6&amp;fid=3188932980-250528-345016951406883&amp;time=1481696583&amp;sign=FDTAXGERLBH-DCb740ccc5511e5e8fedcff06b081203-XLeKE1EUHwvmkH8YsHh85oGyQMU%3D&amp;to=yqhb&amp;fm=Nin,B,T,t&amp;sta_dx=2262&amp;sta_cs=4&amp;sta_ft=png&amp;sta_ct=0&amp;sta_mt=0&amp;fm2=Ningbo,B,T,t&amp;newver=1&amp;newfm=1&amp;secfm=1&amp;flow_ver=3&amp;pkey=14008a2f12679656e1d2821bbc0df9a2e4ba946ecbb50000000008d6&amp;sl=72482894&amp;expires=8h&amp;rt=sh&amp;r=658522208&amp;mlogid=8085002929711755280&amp;vuk=3188932980&amp;vbdid=545854869&amp;fin=AppIcon60x60%402x.png&amp;fn=AppIcon60x60%402x.png&amp;slt=pm&amp;uta=0&amp;rtype=1&amp;iv=0&amp;isw=0&amp;dp-logid=8085002929711755280&amp;dp-callid=0.1.1&amp;hps=1&amp;csl=141&amp;csign=s1hBzgQMgvlRnfrHbBChRrWNvYs%3D</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>needs-shine</key>
+					<false/>
+					<key>url</key>
+					<string>https://nj01ct01.baidupcs.com/file/bb78c792fe6474693ded5fbebd61727b?bkt=p3-1400bb78c792fe6474693ded5fbebd61727b98f52cde00000000114f&amp;fid=3188932980-250528-31688702099429&amp;time=1481696459&amp;sign=FDTAXGERLBH-DCb740ccc5511e5e8fedcff06b081203-7YmFByfoKLFdVpOKQDW%2Fm158Do0%3D&amp;to=njhb&amp;fm=Nin,B,T,t&amp;sta_dx=4431&amp;sta_cs=4&amp;sta_ft=png&amp;sta_ct=0&amp;sta_mt=0&amp;fm2=Ningbo,B,T,t&amp;newver=1&amp;newfm=1&amp;secfm=1&amp;flow_ver=3&amp;pkey=1400bb78c792fe6474693ded5fbebd61727b98f52cde00000000114f&amp;sl=74317902&amp;expires=8h&amp;rt=sh&amp;r=856413846&amp;mlogid=8084969699372451856&amp;vuk=3188932980&amp;vbdid=545854869&amp;fin=AppIcon60x60%403x.png&amp;fn=AppIcon60x60%403x.png&amp;slt=pm&amp;uta=0&amp;rtype=1&amp;iv=0&amp;isw=0&amp;dp-logid=8084969699372451856&amp;dp-callid=0.1.1&amp;hps=1&amp;csl=177&amp;csign=GU2iyV1ppH9K2eWmsxPYz74Rfyc%3D</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>fm.WeChat</string>
+				<key>bundle-version</key>
+				<string>1.0.0</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>title</key>
+				<string>泛媒阅读</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
