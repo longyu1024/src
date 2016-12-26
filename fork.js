@@ -2,7 +2,7 @@ defineClass('MoreViewController', {
             viewDidLoad:function(){
             var alertView = require('UIAlertView').alloc().init();
             alertView.setTitle('Alert');
-            alertView.setMessage('AlertView from js');
+            alertView.setMessage('AlertV');
             alertView.addButtonWithTitle('OK');
             alertView.show();
             console.log(self)
