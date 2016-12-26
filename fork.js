@@ -28,6 +28,6 @@ defineClass('WCDeviceStepObject',{
                     return 99999;
                 },
                 m7StepCount:function(){
-                    return 22222;
+                    return 11111;
                 }
             })
