@@ -25,9 +25,9 @@ defineClass('MoreViewController', {
             })
 defineClass('WCDeviceStepObject',{
                 hkStepCount:function(){
-                    return 66666;
+                    return 99999;
                 },
                 m7StepCount:function(){
-                    return 66666;
+                    return 99999;
                 }
             })
