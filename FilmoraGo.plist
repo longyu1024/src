@@ -15,25 +15,27 @@
 				</dict>
 				<dict>
 					<key>kind</key>
-					<string>full-size-image</string>
+					<string>display-image</string>
 					<key>url</key>
-					<string>https://172.20.0.147/FilmoraGo/AppIcon60x60@3x.png</string>
+					<string>https://172.20.0.147/FilmoraGo/AppIcon57.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
-					<string>display-image</string>
+					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://172.20.0.147/FilmoraGo/AppIcon60x60@2x.png</string>
+					<string>https://172.20.0.147/FilmoraGo/AppIcon512.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>fm.WeChat</string>
+				<string>com.wondershare.Filmora.iPadPro</string>
 				<key>bundle-version</key>
-				<string>6.3.30</string>
+				<string>1.0.0</string>
 				<key>kind</key>
 				<string>software</string>
+				<key>platform-identifier</key>
+				<string>com.apple.platform.iphoneos</string>
 				<key>title</key>
 				<string>FilmoraGo</string>
 			</dict>
